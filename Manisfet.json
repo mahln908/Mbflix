@@ -1,0 +1,52 @@
+{
+    "name": "YouTube Music Player",
+    "short_name": "YTMusic",
+    "description": "Toca música do YouTube com tela bloqueada e notificações",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#FF0000",
+    "background_color": "#121212",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "https://via.placeholder.com/72/FF0000/white?text=YT",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "https://via.placeholder.com/96/FF0000/white?text=YT",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "https://via.placeholder.com/128/FF0000/white?text=YT",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "https://via.placeholder.com/144/FF0000/white?text=YT",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://via.placeholder.com/152/FF0000/white?text=YT",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "https://via.placeholder.com/192/FF0000/white?text=YT",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://via.placeholder.com/384/FF0000/white?text=YT",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://via.placeholder.com/512/FF0000/white?text=YT",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
